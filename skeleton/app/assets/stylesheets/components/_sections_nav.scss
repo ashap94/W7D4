@@ -1,0 +1,17 @@
+.sections-nav{
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #d3d3d3;
+}
+
+.sections-nav ul {
+  display: flex;
+  padding: 10px 0;
+}
+
+.sections-nav li {
+  margin: 0 10px;
+  font-family: $sans-serif;
+  cursor: pointer;
+}
+
